@@ -1,9 +1,5 @@
 # CodingStandarts
-```
-codeVist
-Başakşehir Living Lab Kuluçka Merkezi, Başak Mah. Abdülhamithan Cad. No:5 Başakşehir / İSTANBUL
-http://www.codevist.com - info@codevist.com - @codeVist
-```
+
 # Codevist
 
 # Yazılım Geliştirme ve Kodlama Standartları
@@ -11,37 +7,29 @@ http://www.codevist.com - info@codevist.com - @codeVist
 # Temmuz 2016
 
 
-```
-codeVist
-Başakşehir Living Lab Kuluçka Merkezi, Başak Mah. Abdülhamithan Cad. No:5 Başakşehir / İSTANBUL
-http://www.codevist.com - info@codevist.com - @codeVist
-```
+
 #### Yazanlar ve Emeği Geçenler
 
 **_Fatih COŞKUN
 Mehmet ÖZ
 Coşkun Kurtuldu
 Yunus Yılmazer
-Türkay DÜZBASAN_**
+Türkay DÜZBASAN_
+Ertan Arı
+Emre Mehmet Oruçoğlu 
+Ali Demir
+Hüseyin Gökgöz **
 
 
-```
-codeVist
-Başakşehir Living Lab Kuluçka Merkezi, Başak Mah. Abdülhamithan Cad. No:5 Başakşehir / İSTANBUL
-http://www.codevist.com - info@codevist.com - @codeVist
-```
+
 ### Gizlilik:
 
 ##### Bu doküman gizlilik esaslarına göre hazırlanmıştır. Bu doküman içeriğindeki bilgilerin bütün
 
-##### hakları codeVist firmasına aittir ve ancak referans gösterilerek paylaşılabilir.
+##### hakları Codevist Teknoloji firmasına aittir ve ancak referans gösterilerek paylaşılabilir.
 
 
-```
-codeVist
-Başakşehir Living Lab Kuluçka Merkezi, Başak Mah. Abdülhamithan Cad. No:5 Başakşehir / İSTANBUL
-http://www.codevist.com - info@codevist.com - @codeVist
-```
+
 # İÇİNDEKİLER
 
 ## İSİMLENDİRME VE KODLAMA KURALLARI .................................................................. 3
@@ -65,11 +53,7 @@ http://www.codevist.com - info@codevist.com - @codeVist
 ##### MİMARİ PRATİKLER ........................................................................................... 27
 
 
-```
-codeVist
-Başakşehir Living Lab Kuluçka Merkezi, Başak Mah. Abdülhamithan Cad. No:5 Başakşehir / İSTANBUL
-http://www.codevist.com - info@codevist.com - @codeVist
-```
+
 ## İsimlendirme ve Kodlama Kuralları
 
 1) Tip ve metod değerlerin isimlendirilmesinde Pascal Casing kullanılmalıdır.
@@ -125,11 +109,6 @@ GetObjectState ();
 NesneDurumunuAl ();
 ```
 
-```
-codeVist
-Başakşehir Living Lab Kuluçka Merkezi, Başak Mah. Abdülhamithan Cad. No:5 Başakşehir / İSTANBUL
-http://www.codevist.com - info@codevist.com - @codeVist
-```
 9) Açıklayıcı değişken isimleri kullanılmalıdır.
 
 ```
@@ -188,11 +167,6 @@ karakteri ile ayrılmalıdır.
 private const int DEFAULT_SIZE = 100;
 ```
 
-```
-codeVist
-Başakşehir Living Lab Kuluçka Merkezi, Başak Mah. Abdülhamithan Cad. No:5 Başakşehir / İSTANBUL
-http://www.codevist.com - info@codevist.com - @codeVist
-```
 15) Framework namespace’ leri beraber gruplanırken, kendi namespace’ lerimiz veya
 third-party namespace’ ler altında gruplanmalı (tepedeki **_“using”_** satırlarında) ve arasında
 bir satır boşluk bırakılmalıdır.
@@ -248,11 +222,6 @@ kullanımlarda eğer değişken sayısı çok değil ise metod’ un başında t
 22) Dosya ismi barındırdığı class’ın adını ve sorumluluk alanını yansıtmalıdır.
 
 
-```
-codeVist
-Başakşehir Living Lab Kuluçka Merkezi, Başak Mah. Abdülhamithan Cad. No:5 Başakşehir / İSTANBUL
-http://www.codevist.com - info@codevist.com - @codeVist
-```
 23) Partial class’ lar kullanılırken class’ ların bulundukları dosya isimleri mantıksal isimden
 sonra oynadıkları rolü üstlenecek şekilde isimlendirilmelidir.
 
@@ -305,12 +274,6 @@ SomeDelegate someDelegate = delegate {
 MessageBox.Show ();
 };
 
-
-```
-codeVist
-Başakşehir Living Lab Kuluçka Merkezi, Başak Mah. Abdülhamithan Cad. No:5 Başakşehir / İSTANBUL
-http://www.codevist.com - info@codevist.com - @codeVist
-```
 ## Kodlama Pratikleri
 
 ```
@@ -376,11 +339,6 @@ a. Kodlama standartlarına uygun bir biçimde değiştirilmelidir.
 b. Mümkünse kod partial class’ lara eklenmelidir.
 ```
 
-```
-codeVist
-Başakşehir Living Lab Kuluçka Merkezi, Başak Mah. Abdülhamithan Cad. No:5 Başakşehir / İSTANBUL
-http://www.codevist.com - info@codevist.com - @codeVist
-```
 8) Zaten belli olan bir şeyi ifade eden comment’ lerden kaçınılmalıdır. Kodda kullanılan
 isimlendirme ve teknikler ile kodun kendini açık olarak anlatması yolu tercih edilmelidir.
 Okunabilir değişken ve metodlardan olu an iyi kod zaten comment gerektirmez. Burada esas
@@ -443,11 +401,6 @@ yakalanırken en özel seviyede exceptionların yakalanmasına dikkat edilmelidi
 özel aksiyon almak için en detay seviyede exception hiyerarşisi kullanılmalıdır.
 
 
-```
-codeVist
-Başakşehir Living Lab Kuluçka Merkezi, Başak Mah. Abdülhamithan Cad. No:5 Başakşehir / İSTANBUL
-http://www.codevist.com - info@codevist.com - @codeVist
-```
 17) **_“catch”_** içinde **_“throw”_** ile bir exception atılacaksa, stack yerinin ve orjinal mesajın
 korunması açısından, daima orjinal exception atılmalıdır (veya orginal exception’dan
 üretilen başka bir exception). Exception Handling Block kullanılan durumlarda
@@ -469,10 +422,6 @@ sınıfından türetme yolu tercih edilmelidir.
 
 20) Kendi exception’larımız yazarken :
 
-```
-a. Exception class’ ından yada spesifik exception’ dan türetmeli
-b. Kendi serialization’ınımızı sağlamalıyız.
-```
 21) Bir assembly içinde birden fazla Main () metodu bulundurmaktan kaçınılmalıdır.
 
 22) Sadece en gerekli tipleri **_“public”_** olarak işaretlemeliyiz. Diğerleri “internal” olarak
@@ -503,11 +452,6 @@ Red = 1 ,Green = 2 ,Blue = 3
 }
 
 
-```
-codeVist
-Başakşehir Living Lab Kuluçka Merkezi, Başak Mah. Abdülhamithan Cad. No:5 Başakşehir / İSTANBUL
-http://www.codevist.com - info@codevist.com - @codeVist
-```
 26) Bir enum’a tip atamaktan sakınılmalıdır.
 //Sakınılmalı
 public enum Color: long
@@ -571,11 +515,6 @@ yerine **_“override”_** kullanılmalıdır.
 tanımlanmalıdır.
 
 
-```
-codeVist
-Başakşehir Living Lab Kuluçka Merkezi, Başak Mah. Abdülhamithan Cad. No:5 Başakşehir / İSTANBUL
-http://www.codevist.com - info@codevist.com - @codeVist
-```
 35) Interop hariç unsafe kod kullanılmamalıdır.
 
 36) Explicit çevrimlerden kaçınılmalıdır. **_“as”_** operatörü kullanarak güvenli bir şekilde tip
@@ -636,11 +575,7 @@ sınıflar tanımlı bir Interface’ i uygulamalıdır.
 47) Abstract (Soyut) bir class kullanırken bir interface de alternatif olarak sunulmalıdır.
 
 
-```
-codeVist
-Başakşehir Living Lab Kuluçka Merkezi, Başak Mah. Abdülhamithan Cad. No:5 Başakşehir / İSTANBUL
-http://www.codevist.com - info@codevist.com - @codeVist
-```
+
 48) Açık interface uygulanması tercih edilmelidir.
 
 49) Bir tipin bir interface’ i uyguladığı farz edilmemeli, bu interface’ i uygulayıp
@@ -688,11 +623,7 @@ Library içindeki Logging ve Exception blockları konfigüre edilmelidir.
 58) **_“switch”_** bloğu hariç **_“goto”_** asla kullanılmamalıdır.
 
 
-```
-codeVist
-Başakşehir Living Lab Kuluçka Merkezi, Başak Mah. Abdülhamithan Cad. No:5 Başakşehir / İSTANBUL
-http://www.codevist.com - info@codevist.com - @codeVist
-```
+
 59) Doğrulama yapan bir **_“switch”_** bloğunda daima **_“default”_** case bulunmalıdır.
 
 ```
@@ -756,11 +687,7 @@ kaynaklar boşa çöpe atılmalıdır.
 noktada bunlar için garbage collection’ı zorlayan sınıf) güvenilmemelidir.
 
 
-```
-codeVist
-Başakşehir Living Lab Kuluçka Merkezi, Başak Mah. Abdülhamithan Cad. No:5 Başakşehir / İSTANBUL
-http://www.codevist.com - info@codevist.com - @codeVist
-```
+
 64) Her zaman default olarak unchecked modda çalışıyor olmalıyız (performans
 açısından).
 
@@ -818,11 +745,6 @@ SomeClass obj = t;
 }
 ```
 
-```
-codeVist
-Başakşehir Living Lab Kuluçka Merkezi, Başak Mah. Abdülhamithan Cad. No:5 Başakşehir / İSTANBUL
-http://www.codevist.com - info@codevist.com - @codeVist
-```
 67) Generic interface’ lerde kısıtlardan kaçınılmalı, yerine Strong-typed tipler
 kullanılmalıdır.
 
@@ -861,11 +783,6 @@ return enumerable.GetEnumerator ();
 }
 
 
-```
-codeVist
-Başakşehir Living Lab Kuluçka Merkezi, Başak Mah. Abdülhamithan Cad. No:5 Başakşehir / İSTANBUL
-http://www.codevist.com - info@codevist.com - @codeVist
-```
 ## Arayüz Pratikleri ve Standartları
 
 1) Arayüz kodlamasında macar notasyon kullanılmalıdır. Kullanılan kontorlleri çağrıştıran
@@ -923,11 +840,6 @@ trw Tree View
 2) Arayüz tasarımında tüm alan etiketleri sağa hizalı olmalıdır.
 
 
-```
-codeVist
-Başakşehir Living Lab Kuluçka Merkezi, Başak Mah. Abdülhamithan Cad. No:5 Başakşehir / İSTANBUL
-http://www.codevist.com - info@codevist.com - @codeVist
-```
 3) Veri yoğun ve çok fazla parametreden oluşan formlarda kullanılabilirlik açısından
 mantıksal bölümlere ayrılmış tab sayfaları tercih edilmelidir.
 
@@ -958,11 +870,6 @@ Zorunlu alanlarda mutlaka etiket alanlarında kırmızı * göstergeçleri kulla
 7) Form aksiyon butonları daima kontrollerin altında standart dizilimde olmalıdır.
 
 
-```
-codeVist
-Başakşehir Living Lab Kuluçka Merkezi, Başak Mah. Abdülhamithan Cad. No:5 Başakşehir / İSTANBUL
-http://www.codevist.com - info@codevist.com - @codeVist
-```
 8) Form tipi arayüzlerde giriş kontrolleri birbirine yakın bilgilerin olduğu tasarımsal alt
 gruplara ayrılarak sunulmalıdır. Örn: Some controls, Some Settings altında 2 bölüme
 ayrılmıştır.
@@ -980,12 +887,7 @@ anında sayfanın render edilmesini önleyip tam olarak yüklenmesi aşamasına 
 sayfa yükleniyor iletisi veya imajını kullanabilirsiniz.
 
 
-```
-codeVist
-Başakşehir Living Lab Kuluçka Merkezi, Başak Mah. Abdülhamithan Cad. No:5 Başakşehir / İSTANBUL
-http://www.codevist.com - info@codevist.com - @codeVist
-```
-```
+
 12) Site haritasının geniş ve hiyerarşik olarak 3 ve üzerinde seviyeden oluştuğu
 durumlarda her sayfanın başında ekmek kırıntısı (Breadcumbs) kullanımına özen
 gösteriniz.
@@ -1002,11 +904,6 @@ c. Varsayılan Sıralama: tablo mutlaka son kullanıcının kullanım alışkanl
 uygun kayıt sıralamasına uygun olarak ilk yüklendiğinden gelmelidir.
 ```
 
-```
-codeVist
-Başakşehir Living Lab Kuluçka Merkezi, Başak Mah. Abdülhamithan Cad. No:5 Başakşehir / İSTANBUL
-http://www.codevist.com - info@codevist.com - @codeVist
-```
 14) Menü ve navigasyon için koşullara göre 2 alternatif yol tercih edilebilir.
 
 ```
@@ -1019,11 +916,7 @@ edilmelidir. Kullanılan javascriptlerin standart browserlar tarafından
 desteklenmesie ve performans açısından optimize olmasına özen gösteriniz.
 ```
 
-```
-codeVist
-Başakşehir Living Lab Kuluçka Merkezi, Başak Mah. Abdülhamithan Cad. No:5 Başakşehir / İSTANBUL
-http://www.codevist.com - info@codevist.com - @codeVist
-```
+
 ## Veritabanı Kodlama Standartları ve Pratikleri
 
 1) Stored Procedure isimleri kesinlikle sp_ ile başlamamalıdır. SQL Server sp_ prefixi ile
@@ -1081,11 +974,6 @@ tanımları: Musteri.Musteri, Musteri.Adres, Siparis.SiparisDetay
 almalıdır.
 
 
-```
-codeVist
-Başakşehir Living Lab Kuluçka Merkezi, Başak Mah. Abdülhamithan Cad. No:5 Başakşehir / İSTANBUL
-http://www.codevist.com - info@codevist.com - @codeVist
-```
 ## Konfigurasyon Standartları
 
 1) Canlı sistem kurulumlarında debug modda olmamasına dikkat edilmelidir. Bu mod
@@ -1125,11 +1013,6 @@ dosyası kullanımını tercih ediniz. Bu kullanım için Enterprise Library Con
 Application Block ya da Nini gibi basit knfigurasyon frameworklerini tercih edebilirsiniz.
 
 
-```
-codeVist
-Başakşehir Living Lab Kuluçka Merkezi, Başak Mah. Abdülhamithan Cad. No:5 Başakşehir / İSTANBUL
-http://www.codevist.com - info@codevist.com - @codeVist
-```
 ## Proje Dizin Ağacı
 
 Tüm proje dosyaları ve kodları için yazılım uzmanları C:\Projects klasöründe çalışırlar.
@@ -1140,9 +1023,9 @@ bir alt klasör daha oluşturulur.
 **Müşteri Projeleri Klasör Yapısı**
 
 ```
- C:\Projects\TFF
-o C:\Projects\TFF\FYS
-o C:\Projects\TFF\MilliTakimIstatistik
+ C:\Projects\ABC
+o C:\Projects\ABC\FYS
+o C:\Projects\ABC\MilliTakimIstatistik
 ```
 **Proje Klasör Yapısı**
 
@@ -1171,11 +1054,7 @@ klasörü Test projeleri
 klasörü
 
 
-```
-codeVist
-Başakşehir Living Lab Kuluçka Merkezi, Başak Mah. Abdülhamithan Cad. No:5 Başakşehir / İSTANBUL
-http://www.codevist.com - info@codevist.com - @codeVist
-```
+
 ## Versiyon Kontrol Pratikleri
 
 1) Her sabah projede kod geliştirmeye başlamadan VSS (Diğer Versiyon Kontrol Sistemi de
@@ -1192,12 +1071,6 @@ yorum ve etiketler kodun sürüm geçmişinde önemli bir bilgidir.
 4) Günlük çalışma içersinde yapılan kodlamalar normal durumlarda mesai bitimine yakın
 günlük check-in standartlarına uygun olarak kod tabanına entegre edilmelidir.
 
-
-```
-codeVist
-Başakşehir Living Lab Kuluçka Merkezi, Başak Mah. Abdülhamithan Cad. No:5 Başakşehir / İSTANBUL
-http://www.codevist.com - info@codevist.com - @codeVist
-```
 ## Mimari Standartlar ve Pratikler
 
 **_Katmanlı Mimari Standardı_**
@@ -1224,11 +1097,6 @@ Bu mimari yapıda olası tüm çerçevenin genel hatları ele alınmış olup, p
 göre bu yapının bir alt kümesi kullanılmalıdır.
 
 
-```
-codeVist
-Başakşehir Living Lab Kuluçka Merkezi, Başak Mah. Abdülhamithan Cad. No:5 Başakşehir / İSTANBUL
-http://www.codevist.com - info@codevist.com - @codeVist
-```
 **_Arayüz Katmanı_**
 Web ve windows arayüz teknolojilerini içeren sadece kullanıcı ile yürütülen iletişim ve
 akışı yönlendirmekle görevlidir. Herhangi bir iş kuralı içermeksizin girdi doğrulama,
@@ -1279,11 +1147,7 @@ CodeVist Framework: Tüm projelerde ortak kullanıma sahip mikro modüller ve
 destekçi fonksiyonları içeren kütüphane.
 
 
-```
-codeVist
-Başakşehir Living Lab Kuluçka Merkezi, Başak Mah. Abdülhamithan Cad. No:5 Başakşehir / İSTANBUL
-http://www.codevist.com - info@codevist.com - @codeVist
-```
+
 Mimari Pratikler
 1) İş katmanında yer alan tüm servis nesnelerinde metod seviyesinde transaction
 handling ve exception handling standart olarak yapılmalıdır.
@@ -1343,11 +1207,6 @@ public CustomerEntity Customer;
 public void ProcessOrder (OrderDTO orderDto)
 
 
-```
-codeVist
-Başakşehir Living Lab Kuluçka Merkezi, Başak Mah. Abdülhamithan Cad. No:5 Başakşehir / İSTANBUL
-http://www.codevist.com - info@codevist.com - @codeVist
-```
 5) Tüm servis nesneleri mutlaka CodeVist.Framework.Business namespace’ i altında
 
 ```
