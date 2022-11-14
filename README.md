@@ -8,18 +8,6 @@
 
 
 
-#### Yazanlar ve Emeği Geçenler
-
-**_Fatih COŞKUN
-Mehmet ÖZ
-Coşkun Kurtuldu
-Yunus Yılmazer
-Türkay DÜZBASAN_
-Ertan Arı
-Emre Mehmet Oruçoğlu 
-Ali Demir
-Hüseyin Gökgöz **
-
 
 
 ### Gizlilik:
